@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Phuoc
+<p align="center">
+  <h1>Hi there! 👋 I'm Phuoc</h1>
+</p>
 
 Aspiring Junior Web Developer | Passionate about Creating Web Experiences
 
