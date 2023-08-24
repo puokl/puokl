@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Phuoc]
+# Hi there! 👋 I'm Phuoc
 
 Aspiring Junior Web Developer | Passionate about Creating Web Experiences
 
