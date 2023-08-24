@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated junior web developer with a passio
 ## 🚀 Skills
 
 - Frontend Development: HTML, CSS, JavaScript, Typescript, React, NextJs
-- Backend Development: Node.js, Express.js
+- Backend Development: Node.js, Express.js, GraphQL
 - Database: MongoDB, PostgreSQL
 - State Management: Redux Toolkit, Recoil, Context API
 - UI Framework: Chakra UI, MUI, TailwindCss
