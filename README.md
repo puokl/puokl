@@ -1,6 +1,5 @@
-<p align="center">
-  <h1>Hi there! 👋 I'm Phuoc</h1>
-</p>
+<h1 align="center">Hi there! 👋 I'm Phuoc</h1>
+
 
 Aspiring Junior Web Developer | Passionate about Creating Web Experiences
 
