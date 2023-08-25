@@ -8,11 +8,12 @@ I'm a dedicated junior web developer on a continuous journey to grow and learn i
 
 ## 🚀 Skills
 
-- Frontend Development: HTML, CSS, JavaScript, Typescript, React, NextJs
+- **Frontend Development:** HTML, CSS, JavaScript, Typescript, React, NextJs
 - Backend Development: Node.js, Express.js, GraphQL, Firebase
 - Database: MongoDB, PostgreSQL
 - State Management: Redux Toolkit, Recoil, Context API
 - UI Framework: Chakra UI, MUI, TailwindCss
+- Unit Testing: Jest, Mocha
 - Version Control: Git
 - Tools: VS Code, Postman, GitHub
 
