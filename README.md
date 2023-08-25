@@ -1,14 +1,12 @@
 <h1 align="center">Hi there! 👋 I'm Phuoc</h1>
 
 
-Aspiring Junior Web Developer | Passionate about Creating Web Experiences
-
-Welcome to my GitHub profile! I'm a dedicated junior web developer with a passion for crafting seamless and user-friendly web experiences. With a strong foundation in web technologies and a love for problem-solving, I'm on a continuous journey to grow and learn in the ever-evolving world of web development.
+I'm a dedicated junior web developer on a continuous journey to grow and learn in the ever-evolving world of web development.
 
 ## 🚀 Skills
 
 - Frontend Development: HTML, CSS, JavaScript, Typescript, React, NextJs
-- Backend Development: Node.js, Express.js, GraphQL
+- Backend Development: Node.js, Express.js, GraphQL, Firebase
 - Database: MongoDB, PostgreSQL
 - State Management: Redux Toolkit, Recoil, Context API
 - UI Framework: Chakra UI, MUI, TailwindCss
