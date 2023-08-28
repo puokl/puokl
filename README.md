@@ -15,7 +15,7 @@ I'm a dedicated junior web developer on a continuous journey to grow and learn i
 - UI Framework: Chakra UI, MUI, TailwindCss
 - Unit Testing: Jest, Mocha
 - Version Control: Git
-- Tools: VS Code, Postman, GitHub
+
 
 ## 🌱 Learning and Exploring
 
