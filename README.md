@@ -1,5 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Phuoc</h1>
 
+https://www.codewars.com/users/puokl/badges/large
 
 I'm a dedicated junior web developer on a continuous journey to grow and learn in the ever-evolving world of web development.
 
