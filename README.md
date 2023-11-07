@@ -4,7 +4,7 @@
 
 I'm a dedicated junior web developer on a continuous journey to grow and learn in the ever-evolving world of web development.
 
-Test the Beta version of my Javascript Coding Challenge: [Javascript_coding_challenge](https://code-challenge-lac.vercel.app/)
+Test the Beta version of my Javascript Coding Challenge: <a href="https://code-challenge-lac.vercel.app/" target="_blank" rel="noopener noreferrer">Javascript coding challenge</a>
 
 - 💬 Italian, Portuguese, Spanish, English and Vietnamese
 - 📫 Reach me on **puokino@gmail.com** or add me on **[LinkedIn](https://www.linkedin.com/in/phuoc-l-56b894116/)**.
