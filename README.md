@@ -2,6 +2,9 @@
 
 ![CodeWars Badge](https://www.codewars.com/users/puokl/badges/small)
 
+<a href="https://www.puok.de/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+
+
 I'm a dedicated junior web developer on a continuous journey to grow and learn in the ever-evolving world of web development.
 
 Test the Beta version of my Javascript Coding Challenge: <a href="https://code-challenge-lac.vercel.app/" target="_blank" rel="noopener noreferrer">Javascript coding challenge</a>
@@ -23,7 +26,7 @@ Test the Beta version of my Javascript Coding Challenge: <a href="https://code-c
 ## 🌱 Learning and Exploring
 
 I believe that the best way to learn is through hands-on experience. I'm constantly working on personal projects and diving into new technologies to expand my skill set. Currently, I'm excited about honing my TypeScript skills and exploring serverless architecture.
-
+<!--
 ## 🛠️ Projects
 
 - [Cringe Game](https://cringe-game.netlify.app/): A modern twist on the classic Pacman experience. Built using HTML, CSS, and JavaScript OOP, this project brings the excitement of arcade gaming to your browser. Navigate intricate mazes, collect points, and outsmart enemies in this nostalgic adventure.
@@ -32,4 +35,4 @@ I believe that the best way to learn is through hands-on experience. I'm constan
 - [Fruit Inspection project](https://fruit-project.vercel.app/): Collaborating with a data analyst student, we developed a user-friendly software solution for import/export companies dealing with fresh produce. This project represents a functional MVP and serves as the foundation for a more comprehensive solution. The software is built on technologies including PostgreSQL, Node.js, Express.js, React.js, TypeScript and Tableau.
 
 
-Looking forward to making the web a better place, one line of code at a time! 😄
+Looking forward to making the web a better place, one line of code at a time! 😄-->
