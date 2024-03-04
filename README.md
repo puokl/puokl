@@ -7,6 +7,8 @@
 
 I'm a dedicated junior web developer on a continuous journey to grow and learn in the ever-evolving world of web development.
 
+I'm currently working on my Playground! 🧠💡 Dive into a world of games: Mastermind, Minesweeper, Nonograms, and more! <a href="https://mastermind-topaz.vercel.app/" target="_blank" rel="noopener noreferrer">Play now</a>
+
 Test the Beta version of my Javascript Coding Challenge: <a href="https://code-challenge-lac.vercel.app/" target="_blank" rel="noopener noreferrer">Javascript coding challenge</a>
 
 - 💬 Italian, Portuguese, Spanish, English and Vietnamese
