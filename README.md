@@ -16,10 +16,11 @@ Test the Beta version of my Javascript Coding Challenge: <a href="https://code-c
 
 ## 🚀 Skills
 
-- Frontend Development: HTML, CSS, JavaScript, Typescript, React, NextJs
-- Backend Development: Node.js, Express.js, GraphQL, Firebase
-- Database: MongoDB, PostgreSQL
-- State Management: Redux Toolkit, Recoil, Context API
+- Language:  ![Language](https://skillicons.dev/icons?i=ts,js,java,python)
+- Frontend: ![Frontend](https://skillicons.dev/icons?i=react,next,html,css)
+- Backend: ![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,flask,graphql,firebase)
+- Database: ![Database](https://skillicons.dev/icons?i=mongo,postgres)
+- State Management: Redux Toolkit, Recoil, Context API 
 - UI Framework: Chakra UI, MUI, TailwindCss
 - Unit Testing: Jest, Mocha
 - Version Control: Git
