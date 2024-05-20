@@ -9,7 +9,7 @@ I'm a dedicated junior web developer on a continuous journey to grow and learn i
 
 I'm currently working on my Playground! 🧠💡 Dive into a world of games: Mastermind, Minesweeper, Nonograms, and more! <a href="https://mastermind-topaz.vercel.app/" target="_blank" rel="noopener noreferrer">Play now</a>
 
-Test the Beta version of my Javascript Coding Challenge: <a href="https://code-challenge-lac.vercel.app/" target="_blank" rel="noopener noreferrer">Javascript coding challenge</a>
+Test the Beta version of my Javascript Coding Challenge: <a href="https://code-challenge-react-nine.vercel.app/" target="_blank" rel="noopener noreferrer">Javascript coding challenge</a>
 
 - 💬 Italian, Portuguese, Spanish, English and Vietnamese
 - 📫 Reach me on **puokino@gmail.com** or add me on **[LinkedIn](https://www.linkedin.com/in/phuoc-l-56b894116/)**.
